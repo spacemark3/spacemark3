@@ -6,8 +6,9 @@ I'm a **Software Architecture student** at ITS Angelo Rizzoli with a passion for
 
 I'm on a journey to **merge web development and visual storytelling**. As a beginner, I'm constantly learning, and once something clicks with me, I go all in—coding gives me endless room to explore, and that's why I love it.
 
-Outside of tech, I'm an avid **runner** (I've completed several half-marathons 🏃‍♂️) and a big fan of **reading**.  
+Outside of tech, I'm an avid **runner** (I've completed several half-marathons 🏃‍♂️) and a big fan of **reading**.
 I also have a competitive side—previously ranked in the **top 1%** of European servers in **MOBA games** like *League of Legends* and *Wild Rift*, which led me to join the **QLASH Academy** (Italian national esports team).
+I’m not one to stick to just one thing—I love connecting ideas across different interests, and that’s what keeps my creativity flowing.
 
 ---
 
@@ -26,8 +27,9 @@ I'm a routine guy—but sometimes I get into these insane flow states where I ca
 ---
 ## 🌱 Currently Learning
 
-- Frontend & UI/UX development
-- JavaScript and TypeScript  
+- Java
+- JavaScript and TypeScript
+- React
 - How to blend design and code effectively 🎨💻
 ---
 
