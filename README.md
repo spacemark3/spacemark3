@@ -1,8 +1,1 @@
-# 👋 Hi, I'm Mark Andro
-
-I'm a **Software Architecture student** at ITS Angelo Rizzoli with a passion for both **coding** and **art**—especially drawing manga panels of my favorite characters and moments.
----
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mark3g)
-- 📧 mark3andro@gmail.com
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2500&pause=1500&color=B1F762BB&width=450&height=65&lines=Hi+I'm+Mark+And)](https://git.io/typing-svg)
