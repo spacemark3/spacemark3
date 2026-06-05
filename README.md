@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2500&pause=1500&color=B1F762BB&width=435&height=65&lines=Hi+I'm+Mark+Andro)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Mark+Andro)](https://git.io/typing-svg)
 
 <br>
 
@@ -44,7 +44,7 @@ alt="Mark Andro"
     target="_blank" rel="noreffer">
     <img
         src=""
-        alt="Laravel width="40" height="40">
+        alt="Laravel" width="40" height="40"
     />
 </a>
 <!-- tawillwind -->
@@ -134,7 +134,8 @@ alt="Mark Andro"
     target="_blank"
     href="https://www.goodreads.com/user/show/185313822-mark-andro">
     <img
-        src="">
+        src=""
+        alt="Good Reads" width="40" height="40">
     </img>
 <br>
 </p>
