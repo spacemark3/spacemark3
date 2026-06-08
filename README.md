@@ -17,6 +17,8 @@ src="assets/deku1_color.png"
 - 🏃 Running 1000km in 2026 
 - 🍿 アニメが好きです。 -El psy kongroo
 
+<br style="clear: both;">
+
 
 ## <b> Technologies used in my personal and academic projects: </b>
 
@@ -112,13 +114,13 @@ src="assets/deku1_color.png"
         alt="java" width="40" height="40"
     /> 
  </a>
- <-- C# -->
+ <!-- C# -->
   <a 
-    href="https://spring.io/projects/spring-boot" 
+    href="https://docs.microsoft.com/en-us/dotnet/csharp/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="assets/spring.svg"
-        alt="java" width="40" height="40"
+        src="assets/csharp.svg"
+        alt="C#" width="40" height="40"
     /> 
  </a>
  <!--node -->
@@ -204,7 +206,7 @@ src="assets/deku1_color.png"
     target="_blank"
     href="https://www.goodreads.com/user/show/185313822-mark-andro">
     <img
-        src="assets/goodreads.svg.png"
+        src="assets/goodreads.svg"
         alt="Good Reads" width="40" height="40"
     />
 </a>
