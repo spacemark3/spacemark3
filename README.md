@@ -125,7 +125,7 @@ src="assets/deku1_color.png"
     href="https://expressjs.com/en/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="assets/expres.svg"
+        src="assets/express.svg"
         alt="java" width="40" height="40"
     /> 
  </a>
