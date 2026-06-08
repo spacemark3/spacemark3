@@ -75,8 +75,6 @@ src="assets/deku1_color.png"
         alt="Tailwind" width="40" height="40"
     />
 </a>
-<br>
-
  <!-- php -->
  <a
     href="https://www.php.net/docs.php"
@@ -140,9 +138,6 @@ src="assets/deku1_color.png"
         alt="java" width="40" height="40"
     /> 
  </a>
- <br> 
-
-
  <!-- Android -->
   <a 
     href="https://developer.android.com/studio?hl=it" 
