@@ -20,7 +20,7 @@ src="assets/deku1_color.png"
 
 ## <b> Technologies used in my personal and academic projects: </b>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left">
 <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
@@ -75,6 +75,7 @@ src="assets/deku1_color.png"
         alt="Tailwind" width="40" height="40"
     />
 </a>
+<br>
 
  <!-- php -->
  <a
@@ -113,7 +114,7 @@ src="assets/deku1_color.png"
     /> 
  </a>
  <!--node -->
-    <a 
+<a 
     href="https://nodejs.org/en" 
     target="_blank" rel="noreferrer"> 
     <img
@@ -138,7 +139,8 @@ src="assets/deku1_color.png"
         src="assets/react.svg"
         alt="java" width="40" height="40"
     /> 
- </a> 
+ </a>
+ <br> 
 
 
  <!-- Android -->
