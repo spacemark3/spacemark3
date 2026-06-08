@@ -2,22 +2,21 @@
 
 <br>
 
-<img width="380" align="right" alt="Github"
-src="" 
-alt="Mark Andro"
+<img width= "380" align="right" alt="Github"
+src="assets/deku1_color.png"
 /> 
 
 ## A little more about me...  
 
 - 🚀 I am a software architect 
 - 📱 Building 100 web/apps (2/100) 
-- 🧪 Experimenting with my body, mind and spirit through habits 
-- ✍️ I draw on paper and on paint 
-- 📚 I read books 
+- ✍️ self-taught artist 
+- 🔖 I read books 
 - 🏃 Running 1*000km in 2026 
+- 🍿 アニメが好きです。 -El psy kongroo
 
 
-# <b>Languages and Tools :-</b>
+# <b> Technologies used in my personal and academic projects: </b>
 
 <p align="left">
 <!-- vs code -->
@@ -34,40 +33,43 @@ alt="Mark Andro"
     href="https://www.php.net/docs.php"
     target="_blank" rel="noreferrer">
     <img
-        src=""
+        src="assets/php.svg"
         alt="PHP" width="40" height="40"
     />
 </a>
 <!-- laravel -->
 <a
     href="https://laravel.com/"
-    target="_blank" rel="noreffer">
+    target="_blank" rel="noreferrer">
     <img
-        src=""
+        src="assets/laravel.svg"
         alt="Laravel" width="40" height="40"
     />
 </a>
-<!-- tawillwind -->
+<!-- tailwind -->
 <a
     href="https://v2.tailwindcss.com/docs"
-    target="_blank" rel="noreffer">
-<a
-    href="http>
- <!-- java -->
- <a 
+    target="_blank" rel="noreferrer">
+    <img
+        src="assets/TailwindCSS.svg"
+        alt="Tailwind" width="40" height="40"
+    />
+</a>
+<!--JAVA -->
+<a 
     href="https://www.java.com" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        src="assets/java.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
  <!-- bootstrap -->
  <a 
-    href="https://www.java.com" 
+    href="https://getbootstrap.com/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+        src="assets/bootstrap.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
@@ -76,7 +78,7 @@ alt="Mark Andro"
     href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        src="assets/HTML5.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
@@ -85,7 +87,7 @@ alt="Mark Andro"
     href="https://developer.mozilla.org/en-US/docs/Web/CSS" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        src="assets/CSS3.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
@@ -94,7 +96,7 @@ alt="Mark Andro"
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        src="assets/javascript.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
@@ -103,7 +105,7 @@ alt="Mark Andro"
     href="https://react.dev/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+        src="assets/react.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
@@ -120,22 +122,24 @@ alt="Mark Andro"
 </p> 
 
 ---
-## <b>Connect with me@ :-</b>
+## <b> You can find me on:-</b>
 <p>
-<!-- Github -->
+<!-- Duolingo -->
 <a 
     target="_blank" 
-    href="https://github.com/spacemark3">
+    href="https://www.duolingo.com/profile/MarkAndroG">
     <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    </img>    
+        src="assets/duolingo-1.svg"
+        alt="Duolingo" width="40" height="40"
+    />    
 </a>
 <a
     target="_blank"
     href="https://www.goodreads.com/user/show/185313822-mark-andro">
     <img
-        src=""
-        alt="Good Reads" width="40" height="40">
-    </img>
+        src="assets/goodreads.svg"
+        alt="Good Reads" width="40" height="40"
+    />
+</a>
 <br>
 </p>
