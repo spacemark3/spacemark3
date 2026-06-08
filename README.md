@@ -2,8 +2,6 @@
 
 <br>
 
-## latest drawing on MS Paint
-
 <img width= "380" align="right" alt="Github" style="opacity: 0.7;"
 src="assets/deku1_color.png"
 /> 
@@ -114,15 +112,6 @@ src="assets/deku1_color.png"
         alt="java" width="40" height="40"
     /> 
  </a>
- <!-- C# -->
-  <a 
-    href="https://docs.microsoft.com/en-us/dotnet/csharp/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="assets/csharp.svg"
-        alt="C#" width="40" height="40"
-    /> 
- </a>
  <!--node -->
     <a 
     href="https://nodejs.org/en" 
@@ -150,15 +139,7 @@ src="assets/deku1_color.png"
         alt="java" width="40" height="40"
     /> 
  </a> 
-<!-- Angular -->
- <a 
-    href="https://angular.dev/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="assets/angular.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
+
 
  <!-- Android -->
   <a 
@@ -178,17 +159,6 @@ src="assets/deku1_color.png"
         alt="java" width="40" height="40"
     /> 
  </a> 
- <!-- git -->
- <a 
-    href="https://git-scm.com/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
-        width="40" height="40"
-    /> 
- </a> 
-<br>
-</p> 
 
 ---
 ## <b> You can find me on:</b>
@@ -201,14 +171,6 @@ src="assets/deku1_color.png"
         src="assets/duolingo-1.svg"
         alt="Duolingo" width="40" height="40"
     />    
-</a>
-<a
-    target="_blank"
-    href="https://www.goodreads.com/user/show/185313822-mark-andro">
-    <img
-        src="assets/goodreads.svg"
-        alt="Good Reads" width="40" height="40"
-    />
 </a>
 <br>
 </p>
