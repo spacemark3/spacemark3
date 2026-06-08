@@ -22,7 +22,7 @@ src="assets/deku1_color.png"
 
 ## <b> Technologies used in my personal and academic projects: </b>
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
