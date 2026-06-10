@@ -3,7 +3,7 @@
 <br>
 
 <img width= "380" align="right" alt="Github" style="opacity: 0.7;"
-src="assets/deku1_color.png"
+src="assets/megumi.png"
 /> 
 
 ## A little more about me...  
@@ -18,7 +18,7 @@ src="assets/deku1_color.png"
 <br style="clear: both;">
 
 
-## <b> Technologies used in my personal and academic projects: </b>
+## <b> Technologies used in my personal and academic/job projects: </b>
 
 <p align="left">
 <!-- vs code -->
