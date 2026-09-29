@@ -11,9 +11,22 @@ src="assets/megumi.png"
 - 🚀 I am a software architect 
 - 📱 Building and deploying 100 web/apps (2/100) 
 - ✍️ self-taught artist 
-- 🔖 I read books and manga
-- 🏃 Running 1000km in 2026 
+- 🏃 Running 840km/1000km in 2026 
 - 🍿 アニメが好きです。 -El psy kongroo
+
+🍨 LAST UPDATE: 05/10/2026
+I left software engineering to become an ice cream maker. 🍦
+Why?
+The whole story is on my LinkedIn.
+We only have one life, and our time is limited after all.
+For me, this change is about making space for the things I genuinely want to create.
+And with the free time I now have, I want to focus wholeheartedly on art:
+🎬 Video editing
+✏️ Drawing
+📖 Storytelling
+I don't know exactly where this path will take me.
+But I know I want to spend my time making things that feel meaningful to me.
+One life. Limited time. Might as well create.
 
 <br style="clear: both;">
 
