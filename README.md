@@ -169,5 +169,13 @@ src="assets/megumi.png"
         alt="Duolingo" width="40" height="40"
     />    
 </a>
+<a 
+    target="_blank" 
+    href="https://www.linkedin.com/in/mark3g/">
+    <img
+        src="assets/linkedin.png"
+        alt="Linkedin" width="40" height="40"
+    />    
+</a>
 <br>
 </p>
