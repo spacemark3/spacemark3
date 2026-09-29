@@ -176,7 +176,7 @@ One life. Limited time. Might as well create.
 <!-- Duolingo -->
 <a 
     target="_blank" 
-    href="https://www.duolingo.com/profile/MarkAndroG">
+    href="https://www.duolingo.com/profile/MarkAndroG" target="_blank" rel="noopener noreferrer>
     <img
         src="assets/duolingo-1.svg"
         alt="Duolingo" width="40" height="40"
@@ -184,7 +184,7 @@ One life. Limited time. Might as well create.
 </a>
 <a 
     target="_blank" 
-    href="https://www.linkedin.com/in/mark3g/">
+    href="https://www.linkedin.com/in/mark3g/" target="_blank" rel="noopener noreferrer>
     <img
         src="assets/linkedin.png"
         alt="Linkedin" width="40" height="40"
